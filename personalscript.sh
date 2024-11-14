@@ -71,8 +71,8 @@ clear
 run_tools() {
 #update
 ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 >/dev/null 2>&1
-sysctl -w net.ipv6.conf.default.disable_ipv6=1 >/dev/null 2>&1
+sysctl -w net.ipv6.conf.all.enable_ipv6=1 >/dev/null 2>&1
+sysctl -w net.ipv6.conf.default.enable_ipv6=1 >/dev/null 2>&1
 apt update -y
 apt upgrade -y
 apt dist-upgrade -y
@@ -524,8 +524,8 @@ echo -e ""
 read -p "Press enter to reboot: " ieieie
 touch /root/system
 ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 >/dev/null 2>&1
-sysctl -w net.ipv6.conf.default.disable_ipv6=1 >/dev/null 2>&1
+sysctl -w net.ipv6.conf.all.enable_ipv6=1 >/dev/null 2>&1
+sysctl -w net.ipv6.conf.default.enable_ipv6=1 >/dev/null 2>&1
 rm -fr .bash_history
 reboot
 }
