@@ -241,7 +241,7 @@ rm -fr menu.zip
 chmod +x *
 clear
 cd /usr/local/bin
-wget https://github.com/lalfulsk/Auto-script/raw/main/ws.zip
+wget https://github.com/farhanansari888/Auto-script/raw/main/ws.zip
 unzip ws.zip
 rm -fr ws.zip
 chmod +x *
