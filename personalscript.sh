@@ -342,19 +342,17 @@ apt autoremove -y
 # finishing
 rm -fr /etc/issue.net
 cat> /etc/issue.net << END
-</strong> <p style="text-align:center"><b> <br><font 
-color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>𝐒𝐌𝐀𝐑𝐓 𝐓𝐔𝐍𝐍𝐄𝐋<br>
-┗━━━━━━━━━━━━━━━┛<br></font><br><font 
-color="#00FF00"></strong> <p style="text-align:center"><b> <br><font 
-color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font 
-color='#FFFF00'><b> ★ [ 𝐒𝐌𝐀𝐑𝐓 𝐓𝐔𝐍𝐍𝐄𝐋 ] ★ 
-</b></font><br><font color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> 
-<font color="#FF0000">❖Ƭʜᴇ No Fraud/font><br> <font 
-color="#FFB1C2">❖Ƭʜᴇ No BP </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No 
-Hacking</font><br> <font color="#00FF00">❖Ƭʜᴇ No TORRENT</font><br> <font 
-color="#00FF00">▄︻デ𝐒𝐌𝐀𝐑𝐓 𝐓𝐔𝐍𝐍𝐄𝐋══━一 </font><br> <font 
-color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font 
-color="FFFF00">@farhanansari_888</font><br>
+</strong> <p style="text-align:center"><b> <br><font
+color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>SMART
+TUNNEL<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font
+color="#00FF00"></strong> <p style="text-align:center"><b> <br><font
+color="00FF00"> WELCOME TO SMART TUNNEL </b></font><br><font
+color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF> <font
+color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No
+Mining </font><br> <font color="#00FF00">❖Ƭʜᴇ No Hacking</font><br>
+<font color="#00FF00">▄︻ デ SMART TUNNEL══━一  </font><br> <font
+color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font
+color="red">@farhanansari_888</font><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
