@@ -15,4 +15,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/farhanansari888/Personal-Scrip
 now reboot your vps and all set
 
 script: Smart Tunnel
-Owner: FarhanAnsari @farhanansari_888
+Owner: FarhanAnsari <br>@farhanansari_888
