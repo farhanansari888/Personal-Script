@@ -1,7 +1,7 @@
 #!/bin/bash
 #𝐒𝐌𝐀𝐑𝐓 𝐓𝐔𝐍𝐍𝐄𝐋
-#𝐒𝐦𝐚𝐫𝐭𝐱𝐇𝐚𝐜𝐤𝐞𝐫
-#@farhanansari_888
+#Farhan Ansari
+#@smartxhacker
 clear
 #=========================================================================================================================
 
@@ -352,7 +352,7 @@ color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜ�
 Mining </font><br> <font color="#00FF00">❖Ƭʜᴇ No Hacking</font><br>
 <font color="#00FF00">▄︻ デ SMART TUNNEL══━一  </font><br> <font
 color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font
-color="red">@farhanansari_888</font><br>
+color="red">@smartxhacker</font><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
