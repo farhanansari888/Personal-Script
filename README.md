@@ -20,4 +20,4 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 Now Reboot Your Vps And All Set
 
 Script: <a href="https://t.me/smarttunnel">Smart Tunnel</a> <br>
-Owner: Farhan Ansari <br> <a href= https://t.me/farhanansari_888 >@farhanansari_888</a>
+Owner: Farhan Ansari <br> <a href= https://t.me/smartxhacker >@smartxhacker</a>
