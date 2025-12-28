@@ -518,7 +518,7 @@ echo -e "     <= Must read & do =>"
 echo -e "Change VPS login port from 22 to 3303"
 echo -e "because logging into VPS using port 22 is prone to brute force attacks"
 echo -e ""
-echo -e "To access the NT A.I.O panel, enter"
+echo -e "TO ACCESS THE SMART TUNNEL PANEL, HIT ENTER"
 echo -e "the command ( menu ) without parentheses"
 echo -e ""
 read -p "Press enter to reboot: " ieieie
