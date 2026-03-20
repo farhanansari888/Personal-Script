@@ -351,8 +351,9 @@ color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF> <font
 color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No
 Mining </font><br> <font color="#00FF00">❖Ƭʜᴇ No Hacking</font><br>
 <font color="#00FF00">▄︻ デ SMART TUNNEL══━一  </font><br> <font
-color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font
-color="red">@smartxhacker</font><br>
+color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><a href="https://t.me/smartxhacker" style="text-decoration: none;">
+  <font color="red">⎯꯭𖣐᪵‌𐎓⏤‌‌𝐒𝐦𝐚𝐫𝐭𝐗𝐇𝐚𝐜𝐤𝐞𝐫◄⏤‌‌ꭙ‌‌⁸ ꯭</font>
+</a><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
